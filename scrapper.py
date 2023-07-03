@@ -12,26 +12,24 @@ html_content = response.content
 soup = BeautifulSoup(html_content, 'html.parser')
 
 # Find the desired elements and extract data
-stories = soup.find_all('article')
+stories = soup.find_all('h3', class_='media-heading')
 
 # Create a list to store the extracted data
 data = []
 
 for story in stories:
-    title_element = story.find('h3', class_='article__title')
+    title_element = story.find('a')
     if title_element:
         title = title_element.text.strip()
-        url_element = title_element.find('a')
-        if url_element:
-            url = url_element['href']
-            data.append({"Title": title, "URL": url})
+        url = title_element['href']
+        data.append({"Title": title, "URL": url})
 
 # Print the extracted data
 for item in data:
     print(f"Title: {item['Title']}\nURL: {item['URL']}\n")
 
 # Save the extracted data to a file
-filename = "hacker_news_data.txt"
+filename = "techxplore_news_data.txt"
 
 with open(filename, "w") as file:
     for item in data:

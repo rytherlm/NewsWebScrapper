@@ -1,0 +1,214 @@
+logotype
+
+Topics
+Week's top
+Latest news
+Unread news
+Subscribe
+
+Science X Account
+
+ 
+ 
+Remember me
+Sign In
+Click here to sign in with  or 
+
+Forget Password?
+
+Not a member? Sign up
+Learn more
+53
+12
+Share
+Email
+Home
+Consumer & Gadgets
+Home
+Computer Sciences
+JUNE 29, 2023
+ Editors' notes
+We are wasting up to 20% of our time on computer problems, says study
+by University of Copenhagen
+
+computer
+Credit: Unsplash/CC0 Public Domain
+Even though our computers are now better than 15 years ago, they still malfunction 11%–20% of the time, a new study from the University of Copenhagen and Roskilde University concludes. The researchers behind the study therefore find that there are major gains to be achieved for society by rethinking the systems and involving users more in their development.
+
+
+An endlessly rotating beach ball, a program that crashes without saving data or systems that require illogical procedures or simply do not work: Unfortunately, struggling with computers is still a familiar situation for most of us. Tearing your hair out over computers that do not work remains very common among users, according to new Danish research.
+
+In fact, so much that on average, we waste 11%–20% of our time in front of our computers on systems that do not work or that are so difficult to understand that we cannot perform the task we want to. And this is far from being good enough, says Professor Kasper Hornbæk, one of the researchers behind the study.
+
+"It's incredible that the figure is so high. However, most people experience frustration when using computers and can tell a horror story about an important PowerPoint presentation that was not saved or a system that crashed at a critical moment. Everyone knows that it is difficult to create IT systems that match people's needs, but the figure should be much lower, and one thing that it shows is that ordinary people aren't involved enough when the systems are developed," he says.
+
+Professor Morten Hertzum, the other researcher behind the study, emphasizes that most frustrations are experienced in connection with the performance of completely ordinary tasks.
+
+"The frustrations are not due to people using their computers for something highly advanced, but because they experience problems in their performance of everyday tasks. This makes it easier to involve users in identifying problems. But it also means that problems that are not identified and solved will probably frustrate a large number of users," says Morten Hertzum.
+
+The problems are only too recognizable
+
+To examine this issue, the researchers have been assisted by 234 participants who spend between six and eight hours in front of a computer in their day-to-day work.
+
+During one hour, the researchers told them to report the situations in which the computer would not work properly, or where the participants were frustrated about not being able to perform the task they wanted.
+
+The problems most often experienced by the participants included: "the system was slow," "the system froze temporarily," "the system crashed," "it is difficult to find things." The participants had backgrounds such as student, accountant, consultant, but several of them actually worked in the IT industry.
+
+"A number of the participants in the survey were IT professionals, while most of the other participants were highly competent IT and computer users. Nevertheless, they encountered these problems, and it turns out that this involves some fundamental functions," says Kasper Hornbæk.
+
+The participants in the survey also responded that 84% of the episodes had occurred before and that 87% of the episodes could happen again. And, according to Kasper Hornbæk, we are having the same fundamental problems today that we had 15–20 years ago.
+
+"The two biggest categories of problems are still about insufficient performance and lack of user-friendliness," he says.
+
+Morten Hertzum adds, "Our technology can do more today, and it has also become better, but at the same time, we expect more from it. Even though downloads are faster now, they are often still experienced as frustratingly slow. "
+
+
+88% use a computer at work
+
+According to Statistics Denmark, 88% of Danes used computers, laptops, smartphones, tablets or other mobile devices at work in 2018. In this context, the new study indicates that a half to a whole day of a normal working week may be wasted on computer problems.
+
+"There is a lot of productivity lost in workplaces throughout Denmark because people are unable to perform their ordinary work because the computer is not running as it should. It also causes a lot of frustrations for the individual user," says Kasper Hornbæk.
+
+This means that there are major benefits to be gained for society if we experienced fewer problems in front of our computers. According to Kasper Hornbæk, the gains can, for example, be achieved if more resources are invested in rethinking how faults are presented to us on the computer.
+
+"Part of the solution may be to shield us from knowing that the computer is working to solve a problem. In reality, there is no reason why we need to look at an incomprehensible box with commands or a frozen computer. The computer could easily solve the problems without displaying this, while it provided a back-up version of the system for us, so that we could continue to work with our tasks undisturbed," says Kasper Hornbæk.
+
+At the same time, IT developers should involve the users even more when designing the systems to make them as easy to use—and understand—as possible, because according to the researcher, there are no poor IT users, only poor systems.
+
+"When we're all surrounded by IT systems that we're cursing, it's very healthy to ascertain that it's probably not the users that are the problem, but those who make the systems. The study clearly shows that there is still much room for improvement, and we therefore hope that it can create more focus on making more user-friendly systems in the future," concludes Kasper Hornbæk.
+
+More information: Morten Hertzum et al, Frustration: Still a Common User Experience, ACM Transactions on Computer-Human Interaction (2023). DOI: 10.1145/3582432
+Provided by University of Copenhagen 
+Explore further
+Computer 'brains' solving mysteries of human behaviour
+67 shares
+Facebook
+Twitter
+Email
+Feedback to editors
+
+Featured
+Last Comments
+Popular
+GitHub's Copilot may lead to global $1.5 trillion GDP boost
+JUN 30, 2023
+4
+Corporate collaboration bolsters quantum encryption
+JUN 27, 2023
+1
+Rendering three-dimensional images from eye reflections with NeRF
+JUN 27, 2023
+0
+Engineering liquid crystal elastomers inspired by elephant trunks to make artificial plants
+JUN 27, 2023
+0
+Wafer-scale transistor arrays created using slot-die printing
+JUN 27, 2023
+0
+
+New glass could cut carbon footprint by nearly half and is 10x more damage resistant
+1 HOUR AGO
+
+Team develops a faster, cheaper way to train large language models
+1 HOUR AGO
+
+Cutting edge transistors for semiconductors of the future
+3 HOURS AGO
+
+In AI tussle, Twitter restricts number of posts users can read
+JUL 1, 2023
+
+After several turbulent days, flight disruptions ease despite worries about 5G signals
+JUL 1, 2023
+
+Displays controlled by flexible fins and liquid droplets more versatile, efficient than LED screens
+JUN 30, 2023
+
+GitHub's Copilot may lead to global $1.5 trillion GDP boost
+JUN 30, 2023
+
+Orchestra-conducting robot wows audience in S. Korean capital
+JUN 30, 2023
+
+Smart windows redefine solar radiation control in buildings
+JUN 30, 2023
+
+Robot swarms neutralize harmful Byzantine robots using a blockchain-based token economy
+JUN 30, 2023
+
+1
+2
+Related Stories
+
+Computer 'brains' solving mysteries of human behaviour
+OCT 14, 2016
+
+The quantum computer already exists, but is not all that powerful
+MAY 16, 2023
+
+Q&A: Expert discusses how to realistically achieve quantum speedups beyond the hype
+MAY 26, 2023
+
+Tiny quantum computer solves real optimization problem
+DEC 17, 2020
+
+New software allows nonspecialists to intuitively train machines using gestures
+OCT 31, 2022
+
+Scalable photonic computer solves the subset sum problem
+FEB 3, 2020
+Recommended for you
+
+Robot swarms neutralize harmful Byzantine robots using a blockchain-based token economy
+JUN 30, 2023
+
+Researchers teach an AI to write better chart captions
+JUN 29, 2023
+
+BBCube 3D: Implementing CPU/GPU and memory in a hybrid 3D approach
+JUN 29, 2023
+
+Why do some chatbots talk funny? Teaching them to 'think' rationally might help them do better
+JUN 28, 2023
+
+Researchers design tools to automatically detect natural disasters using images on social media
+JUN 28, 2023
+
+Computer vision system marries image recognition and generation
+JUN 28, 2023
+
+Load comments (0)
+Phys.org logotype
+Phys.org
+Daily science news on research developments and the latest scientific innovations
+MedicalXpress logotype
+Medical Xpress
+Medical research advances and health news
+ScienceX logotype
+Science X
+The most comprehensive sci-tech news coverage on the web
+Newsletters
+
+Subscribe
+Science X Daily and the Weekly Email Newsletter are free features that allow you to receive your favorite sci-tech news updates in your email inbox
+Follow us
+Top
+Home
+Search
+Mobile version
+Help
+FAQ
+About
+Contact
+Science X Account
+Premium Account
+Newsletter
+Archive
+Android app
+iOS app
+RSS feeds
+Push notification
+© Tech Xplore 2014 - 2023 powered by Science X Network
+Privacy policy Terms of use
+
+
