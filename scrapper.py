@@ -25,14 +25,18 @@ for story in stories:
         data.append({"Title": title, "URL": url})
 
 # Print the extracted data
-for item in data:
-    print(f"Title: {item['Title']}\nURL: {item['URL']}\n")
+for index, item in enumerate(data, start=1):
+    print(f"#{index}")
+    print(f"Title: {item['Title']}")
+    print(f"URL: {item['URL']}\n")
 
 # Save the extracted data to a file
 filename = "techxplore_news_data.txt"
 
 with open(filename, "w") as file:
-    for item in data:
-        file.write(f"Title: {item['Title']}\nURL: {item['URL']}\n")
+    for index, item in enumerate(data, start=1):
+        file.write(f"#{index}\n")
+        file.write(f"Title: {item['Title']}\n")
+        file.write(f"URL: {item['URL']}\n\n")
 
 print(f"Data saved to {filename}")
